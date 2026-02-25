@@ -26,7 +26,7 @@ Soon we will have a Wiki, until there, you can get your questions through (in or
 3. Suggesting a feature
     - Do you need some feature? Suggest it as a issue.
 4. Notifying a bug
-    - Did you notice any strange behavior? Reporter the bug as a issue!
+    - Did you notice any strange behavior? Report the bug as a issue!
 5. Implementing
     - You can do enhancement, fix a bug, solve an issue or expand the documentation.
 
